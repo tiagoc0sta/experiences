@@ -20,7 +20,7 @@ Technologies used:
 
 ## Demo
 
-- [Online app (Netlify) - click here](https://resilient-pavlova-744626.netlify.app/)
+- [Online app (Netlify) - click here](https://profound-tanuki-1bf97f.netlify.app/)
 
 ## Web App
 
